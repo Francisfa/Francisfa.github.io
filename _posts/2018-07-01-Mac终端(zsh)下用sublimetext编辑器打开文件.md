@@ -9,7 +9,7 @@ header-img: img/post-wf-mac.jpg
 catalog: true
 tags:
     - Mac
-    - 终端
+    - terminal
     - zsh
 ---
 
