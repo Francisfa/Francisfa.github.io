@@ -39,9 +39,8 @@ tags:
 #### 修改主题
 
 	$ open ~/.zshrc 
-
-修改 `ZSH_THEME=”robbyrussell”`，主题在 ~/.oh-my-zsh/themes 目录下。
-
+<br>
+	修改 `ZSH_THEME="robbyrussell"`，主题在 ~/.oh-my-zsh/themes 目录下。
 
 可以[参照主题](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)进行选择.
 
